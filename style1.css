@@ -99,3 +99,14 @@ a
   transition: 0.3s;
   border-bottom: 1px solid #db4a39;
 }
+.gl, .fb, .tw
+{
+ width: 100px;
+ height: 100px;
+ display: block;
+ margin:30px 0 30px 170px;
+}
+h3
+{
+  margin-left: 198px;
+}
